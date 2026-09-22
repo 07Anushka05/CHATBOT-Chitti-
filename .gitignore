@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.py[cod]
+chatbot.db
+chat_history/
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
